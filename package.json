@@ -1,0 +1,15 @@
+{
+  "name": "stylq",
+  "version": "1.4.1",
+  "description": "The Stylq is the cool Syntaxed HTML Preprocessor.  Easy beautiful syntax.  Easy Readable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stylq",
+    "Preprocessor"
+  ],
+  "author": "Ajith Krish <mailingtoajith@gmail.com>",
+  "license": "ISC"
+}
