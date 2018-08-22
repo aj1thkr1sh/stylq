@@ -3,7 +3,7 @@ Stylq is the cool syntax HTML Preprocessor.
 Stylq will allow user to make HTML file more easily.
 Stlyq is the Rich Syntax file to generator HTML file in the easy way.  Stylq is the easy readable and writable.
 
-## Command Line Usage
+## Command Line Usage Usage
 For NPM
 ```
   npm i stylq
