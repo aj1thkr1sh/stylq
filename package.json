@@ -1,6 +1,6 @@
 {
   "name": "stylq",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "The Stylq is the cool Syntaxed HTML Preprocessor.  Easy beautiful syntax.  Easy Readable",
   "main": "index.js",
   "scripts": {
