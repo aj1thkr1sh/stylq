@@ -1,6 +1,6 @@
 {
   "name": "stylq",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "The Stylq is the cool Syntaxed HTML Preprocessor.  Easy beautiful syntax.  Easy Readable",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "keywords": [
     "Stylq",
-    "Preprocessor"
+    "Preprocessor",
+    "Compile",
+    "Variable"
   ],
   "author": "Ajith Krish <mailingtoajith@gmail.com>",
   "license": "ISC"
